@@ -6,3 +6,4 @@ To use this file you have to use [composer](https://getcomposer.org/download/) a
 ```
 composer require linecorp/line-bot-sdk
 ```
+*in Line Developer website you need to change webhook url to use it
